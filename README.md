@@ -1,4 +1,9 @@
-## Hi there 👋
+## This is me
+
+- 🔭 I’m currently working on LLM use-cases in the insurance industry.
+- 🌱 I’m currently learning how to solve anything that needs solving.
+- 📫 How to reach me: vanja.stojanovic25@gmail.com or through my LinkedIn
+
 
 <!--
 **Vanja-S/vanja-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
